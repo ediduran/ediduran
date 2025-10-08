@@ -2,12 +2,6 @@ Hello World!
 
 I'm Edilaine Duran 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ediduran&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediduran&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
-  
 
  <div> 
   <a href="https://www.youtube.com/channel/UCSXEw7VE8-KCTi5s3FCk6_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
